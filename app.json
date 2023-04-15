@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "addicure",
+    "slug": "addicure",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
